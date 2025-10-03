@@ -10,11 +10,11 @@ setup(
     name="bcclassreport",
     version="1.0.0",
     author="Open Source Contributors",
-    author_email="your.email@example.com",  # Update this
+    author_email="mehendalenachiket@gmail.com",  
     description="Simple, intuitive binary classification metrics and visualizations",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/bcclassreport",  # Update this
+    url="https://github.com/Nachiket-Mehendale/bcclassreport",  
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
