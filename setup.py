@@ -14,7 +14,7 @@ setup(
     description="Simple, intuitive binary classification metrics and visualizations",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/bcclassreport",  # Update this
+    url="https://github.com/Nachiket-Mehendale/bcclassreport",  # Update this
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
