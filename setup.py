@@ -10,7 +10,7 @@ setup(
     name="bcclassreport",
     version="1.0.0",
     author="Open Source Contributors",
-    author_email="your.email@example.com",  # Update this
+    author_email="mehendalenachiket@gmail.com",  # Update this
     description="Simple, intuitive binary classification metrics and visualizations",
     long_description=long_description,
     long_description_content_type="text/markdown",
